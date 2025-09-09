@@ -1,0 +1,2 @@
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, SQL
+Experience: Built machine learning models for classification, regression, and NLP tasks.
